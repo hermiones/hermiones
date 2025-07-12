@@ -1,63 +1,54 @@
-# Hi there, I'm Sudipta (aka hermiones) 🧪✨
-
-> QA Engineer ⚙️ | Automation Alchemist 🔍 | Python Whisperer 🐍  
-> “I don’t break code… I expose its deepest secrets.” 😏
+# Hey, I'm Sudipta (aka hermiones) 🧪✨  
+**QA Engineer | Automation Developer | DevOps Learner**
 
 ---
 
-## 💼 About Me
+## 👩🏻‍💻 About Me
 
-🎯 Currently working as an SQA Engineer at Iskraemeco  
-👩🏻‍💻 3+ years of experience in software quality & automation  
-🧪 Skilled in Python, Selenium, pytest, and Allure  
-🔁 CI/CD ninja with Azure DevOps, Docker, and Pipelines  
-🌐 Backend whisperer: API testing using Postman & `requests`  
-🖥️ Created automation frameworks from scratch with POM
+I'm a Quality Assurance Engineer with 3+ years of experience building clean, maintainable automation frameworks and ensuring software behaves like it should — even when it doesn't want to.
+
+Currently working at **Iskraemeco**, I specialize in Python-based automation, CI/CD integration, and end-to-end testing across web and backend systems.  
+I enjoy creating systems that don’t just pass — but **stay reliable** over time.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech I'm Comfortable With
 
-- **Languages:** Python, Java (basic)
-- **Frameworks:** Pytest, TestNG, POM, Selenium, Allure
-- **CI/CD:** Azure Pipelines, Jenkins, GitHub Actions
-- **Tools:** Jira, Postman, RabbitMQ, Kafka, IIS
-- **OS:** Windows, Linux, Azure VMs
-- **Others:** Docker (learning), Kubernetes (learning), Terraform (learning)
+**Languages:** Python, Java (basic)  
+**Frameworks:** Pytest, Selenium, TestNG, POM, Allure  
+**API Testing:** Postman, REST APIs with `requests`  
+**CI/CD Tools:** Azure Pipelines, GitHub Actions, Jenkins  
+**Utilities:** Jira, Docker, RabbitMQ, Kafka, IIS  
+**Platforms:** Windows, Linux, Azure VMs  
 
----
-
-## 🌈 Aesthetic Stats Zone
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=tokyonight&count_private=true)
-
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=tokyonight)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=hermiones&theme=radical)
-
-### 👁️ Visitors
-![visitors](https://komarev.com/ghpvc/?username=hermiones&style=flat&color=blueviolet)
+Currently learning: Docker 🐳, Kubernetes ☸️, Terraform ⛰️
 
 ---
 
-## ✨ Fun Facts
+## 🧪 What I Do (Besides Breaking Things Intentionally)
 
-- I talk to my test cases (and they talk back 💬)
-- I have a long-term love affair with automation ❤️‍🔥
-- Anime, the night sky, and painting keep me sane
-- I break things... but only to make them better
+- 🔹 Build automation frameworks from scratch  
+- 🔹 Write clean test cases with proper structure (POM, modular scripts)  
+- 🔹 Plug tests into CI/CD workflows  
+- 🔹 Run parallel and cross-browser tests with Selenium Grid  
+- 🔹 Validate APIs like a backend detective 🕵️‍♀️  
+- 🔹 Work under Agile and Scrum with release-level ownership
 
 ---
 
-## 📬 Let’s Connect!
+## 📈 My GitHub Zone
 
-📧 `suidptadiya20@gmail.com` 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=calm&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=calm)
+
+---
+
+## 📬 Connect With Me
+
+📧 sudiptadiya20@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sudiptamohanty/)
 
 ---
 
-_“In a world full of flaky tests, be the stable one.”_
-
+> *Quality isn’t just tested — it’s engineered.*  
