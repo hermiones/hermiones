@@ -1,4 +1,4 @@
-# Hey, I'm Sudipta (aka hermiones) 🧪✨  
+# Hey, I'm Sudipta  🧪✨  
 **QA Engineer | Automation Developer | DevOps Learner**
 
 ---
