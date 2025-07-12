@@ -54,8 +54,8 @@
 
 ## 📬 Let’s Connect!
 
-📧 `hermiones.qa@gmail.com` (optional — add if you want)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link/) _(replace with yours if public)_
+📧 `suidptadiya20@gmail.com` 
+🔗 [LinkedIn](https://www.linkedin.com/in/sudiptamohanty/)
 
 ---
 
