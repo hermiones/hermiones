@@ -1,5 +1,9 @@
-# Hey, I'm Sudipta 🧪✨  
-**QA Engineer | Automation Developer | DevOps Learner**
+<h1 align="center">Hey, I'm Sudipta 🧪✨</h1>
+<h3 align="center">QA Engineer | Automation Developer | DevOps Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Breaking+code+to+build+better+things...;Writing+stable+tests+is+my+love+language.;QA+with+an+eye+for+automation+magic.💫" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -24,6 +28,21 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 
 ---
 
+## 🚀 Tools I Use
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
 ## 🧪 What I Do (Besides Breaking Things Intentionally)
 
 - 🔹 Build automation frameworks from scratch  
@@ -35,44 +54,10 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Code Snippet of the Day
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hermiones&theme=gruvbox&row=2&column=3" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hermiones&theme=tokyonight" />
-</p>
-
----
-
-## 📊 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hermiones&theme=tokyo-night&area=true" />
-</p>
-
----
-
-## 📬 Connect With Me
-
-📧 sudiptadiya20@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sudiptamohanty/)
-
----
-
-> _“Quality isn’t just tested — it’s engineered.”_
+```python
+@pytest.mark.smoke
+def test_user_login():
+    login_page.login("hermione.qa", "ExpectoPass123")
+    assert dashboard_page.is_loaded()
