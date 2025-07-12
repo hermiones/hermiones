@@ -1,4 +1,4 @@
-# Hey, I'm Sudipta  🧪✨  
+# Hey, I'm Sudipta 🧪✨  
 **QA Engineer | Automation Developer | DevOps Learner**
 
 ---
@@ -20,8 +20,7 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 **CI/CD Tools:** Azure Pipelines, GitHub Actions, Jenkins  
 **Utilities:** Jira, Docker, RabbitMQ, Kafka, IIS  
 **Platforms:** Windows, Linux, Azure VMs  
-
-Currently learning: Docker 🐳, Kubernetes ☸️, Terraform ⛰️
+**Currently learning:** Docker 🐳, Kubernetes ☸️, Terraform ⛰️
 
 ---
 
@@ -36,11 +35,36 @@ Currently learning: Docker 🐳, Kubernetes ☸️, Terraform ⛰️
 
 ---
 
-## 📈 My GitHub Zone
+## 🏆 GitHub Trophies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=calm&count_private=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hermiones&theme=gruvbox&row=2&column=3" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=calm)
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hermiones&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hermiones&theme=tokyo-night&area=true" />
+</p>
 
 ---
 
@@ -51,4 +75,4 @@ Currently learning: Docker 🐳, Kubernetes ☸️, Terraform ⛰️
 
 ---
 
-> *Quality isn’t just tested — it’s engineered.*  
+> _“Quality isn’t just tested — it’s engineered.”_
