@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Automation Developer | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Breaking+code+to+build+better+things...;Writing+stable+tests+is+my+love+language.;QA+with+an+eye+for+automation+magic.💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Quality+Engineer+with+a+Pythonic+Soul.;I+write+tests+that+don%E2%80%99t+flake.;I+make+CI+pipelines+sing.;Automation+is+my+love+language.❤️‍🔥" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 
 ---
 
-## 🔧 Tech I'm Comfortable With
+## 🔧 Tech Stack
 
 **Languages:** Python, Java (basic)  
 **Frameworks:** Pytest, Selenium, TestNG, POM, Allure  
@@ -28,7 +28,7 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 
 ---
 
-## 🚀 Tools I Use
+## 🛠 Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -43,21 +43,99 @@ I enjoy creating systems that don’t just pass — but **stay reliable** over t
 
 ---
 
-## 🧪 What I Do (Besides Breaking Things Intentionally)
-
-- 🔹 Build automation frameworks from scratch  
-- 🔹 Write clean test cases with proper structure (POM, modular scripts)  
-- 🔹 Plug tests into CI/CD workflows  
-- 🔹 Run parallel and cross-browser tests with Selenium Grid  
-- 🔹 Validate APIs like a backend detective 🕵️‍♀️  
-- 🔹 Work under Agile and Scrum with release-level ownership
-
----
-
-## 🧠 Code Snippet of the Day
+## 🧠 Code Sample
 
 ```python
 @pytest.mark.smoke
-def test_user_login():
+def test_login_valid_user():
     login_page.login("hermione.qa", "ExpectoPass123")
     assert dashboard_page.is_loaded()
+```
+
+> Stable. Reusable. Pytest-powered. 🧪
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hermiones&theme=gruvbox&row=2&column=3" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hermiones&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hermiones&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hermiones&theme=tokyonight" />
+</p>
+
+---
+
+## 🧮 GitHub Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hermiones&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hermiones&theme=tokyonight&utcOffset=+5.5" />
+</p>
+
+---
+
+## 📌 Repo & Commit Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hermiones&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hermiones&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hermiones&theme=tokyo-night&area=true" />
+</p>
+
+---
+
+## 🎧 Spotify (Mood matters)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31noiqtrg7dcgy2q2v3a5yupoiqm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31noiqtrg7dcgy2q2v3a5yupoiqm)
+
+---
+
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🧿 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hermiones&style=flat-square&color=blueviolet" alt="hermiones profile views" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+
+📧 sudiptadiya20@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sudiptamohanty/)  
+🌍 Based in India | Open to global remote QA & SDET roles
+
+---
+
+> _“Quality isn’t just tested — it’s engineered.”_  
+> _“In a world full of flaky tests, be the stable one.”_
