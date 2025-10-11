@@ -9,8 +9,9 @@
 
 ## 👩🏻‍💻 About Me
 
-🎯 3+ years of industry experience in software testing & automation  
+🎯 4+ years of industry experience in software testing & automation  
 🏢 Currently at **Iskraemeco**, testing IoT/utility solutions  
+🏢 Previously worked at Capgemini, Awarded top performer 2 times in 1 Working year
 🧪 Expertise in Python, Selenium, pytest, and Allure  
 🔄 Strong understanding of **CI/CD pipelines** using Azure DevOps  
 🌐 Skilled in testing Web, Backend (API), and Android apps  
