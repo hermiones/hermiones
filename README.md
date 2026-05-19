@@ -1,47 +1,58 @@
-<h1 align="center">Hey, I'm Sudipta 🧪✨</h1>
-<h3 align="center">SQA Engineer | Automation Developer | DevOps Learner</h3>
+<h1 align="center">Hey, I'm Sudipta ⚙️✨</h1>
+<h3 align="center">SQA Engineer → DevOps Engineer | Automation & CI/CD Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Automation+specialist+with+QA+roots.;CI%2FCD+evangelist+in+training.;Stable+frameworks+are+my+superpower.;SDET+at+heart%2C+DevOps+by+choice." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I+break+things+to+make+them+stronger.;Automation+is+my+default+mode.;CI%2FCD+pipelines+are+my+playground.;From+testing+code+to+shipping+systems." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-🎯 4+ years of industry experience in software testing & automation  
-🏢 Currently at **Iskraemeco**, testing IoT/utility solutions  
-🏢 Previously worked at Capgemini, Awarded top performer 2 times in 1 Working year
-🧪 Expertise in Python, Selenium, pytest, and Allure  
-🔄 Strong understanding of **CI/CD pipelines** using Azure DevOps  
-🌐 Skilled in testing Web, Backend (API), and Android apps  
-🛠️ Designed and built scalable test frameworks from scratch using Page Object Model (POM)  
+🎯 4+ years in software quality, automation & system reliability  
+🏢 Currently at **Iskraemeco** — working on IoT & utility-based systems  
+🏆 Ex-**Capgemini** | 2x Top Performer  
+
+🧪 Built my foundation in **QA & Automation** — now evolving into **DevOps & Infrastructure**  
+⚙️ I don’t just test systems — I **improve how they’re built, deployed, and monitored**  
 
 ---
 
-## 💼 Real Work I’ve Done
+## 🚀 What I Actually Do
 
-- ✅ Built **Python-based automation framework** (pytest + POM + Allure)
-- ✅ Setup **CI pipelines** on Azure DevOps + GitHub Actions  
-- ✅ Performed **functional testing** on web, API & Android platforms  
-- ✅ Configured **Selenium Grid** for cross-browser execution  
-- ✅ Automated test deployments on internal Azure VMs  
-- ✅ Created & executed **test cases in Azure DevOps Test Plans**  
-- ✅ Integrated backend queues like **RabbitMQ** & **Kafka** in test strategy  
-- ✅ Worked in Agile/Scrum teams with sprint-level test ownership  
+- 🔧 Build **automation frameworks** using pytest, POM & scalable design patterns  
+- 🔁 Design & maintain **CI/CD pipelines** (Azure DevOps, GitHub Actions)  
+- 🐳 Work with **Dockerized environments** for consistent testing & deployments  
+- 🌐 Test across **Web, APIs & Android systems**  
+- ⚡ Run **parallel executions** using Selenium Grid  
+- 🧠 Handle **system-level integrations** (RabbitMQ, Kafka)  
+- ☁️ Manage testing & deployments on **Azure Virtual Machines**  
+- 📊 Own **test strategy, execution & reporting** in Agile environments  
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, Java (basic)  
-**Automation:** Selenium, Pytest, TestNG, POM  
-**Reporting:** Allure, HTMLReports  
-**API Testing:** Postman, REST (requests lib), JSON schema validation  
+**Core:** Python, Automation Testing, System Design Thinking  
+**Automation:** Selenium, Pytest, TestNG, Page Object Model  
 **CI/CD:** Azure DevOps, GitHub Actions, Jenkins  
-**Tools:** Jira, Docker, RabbitMQ, Kafka, IIS Manager  
-**Platforms:** Windows, Linux, Azure Virtual Machines  
-**Learning:** Docker 🐳, Kubernetes ☸️, Terraform  
+**Containers:** Docker 🐳 (actively working with it)  
+**Messaging:** RabbitMQ, Kafka  
+**API:** REST, Postman, requests, JSON validation  
+**Tools:** Jira, IIS Manager  
+**Platforms:** Linux, Windows, Azure  
+
+**Next Up:** Kubernetes ☸️ | Terraform 🌍  
+
+---
+
+## 🏗️ What I'm Building Now
+
+🚧 Transitioning into **DevOps Engineering**  
+- Building end-to-end **CI/CD pipelines from scratch**  
+- Learning **container orchestration (K8s)**  
+- Exploring **infrastructure as code (Terraform)**  
+- Creating **real-world DevOps portfolio projects**  
 
 ---
 
@@ -70,24 +81,6 @@
 
 ---
 
-## 🧮 GitHub Summary Cards
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hermiones&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hermiones&theme=tokyonight&utcOffset=+5.5" />
-</p>
-
----
-
-## 📌 Repo & Commit Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hermiones&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hermiones&theme=tokyonight" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -100,8 +93,8 @@
 
 📧 sudiptadiya20@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sudiptamohanty/)  
-🌍 Based in India | Open to global remote QA / SDET / Automation roles
+🌍 India | Open to DevOps / SDET / Automation roles (Remote + Relocation)
 
 ---
 
-> _“In a world of broken builds and flaky tests, I’m here for quality that lasts.”_
+> _“First I made tests reliable. Now I’m making systems unbreakable.”_
