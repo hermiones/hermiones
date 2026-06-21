@@ -1,6 +1,6 @@
 # ⚙️ Sudipta
 
-### SQA Engineer → DevOps Engineer | Automation • CI/CD • Reliability
+### TESTOPS Engineer | Automation • CI/CD • Reliability
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=650&lines=I+break+systems+to+understand+them.;Then+I+rebuild+them+stronger.;Automation+is+my+default+mode.;CI%2FCD+is+where+I+feel+at+home." />
